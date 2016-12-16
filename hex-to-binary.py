@@ -1,7 +1,7 @@
 import sys
 #Program to convert a given message in HEX to Binary
 
-hex_string = "675a69675e5a6b5a"
+hex_string = "79650c638248016ce3a0d3502a6f4f3c"
 binary_string = ''
 print "This program will convert the message in HEX to Binary"
 hex_string = hex_string.upper()
@@ -50,3 +50,4 @@ for letter in hex_string:
 
 print "The string in binary is: "
 print binary_string
+print len(binary_string)
