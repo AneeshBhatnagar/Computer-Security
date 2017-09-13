@@ -1,4 +1,4 @@
-#Computer Security Related Programs in Python
+# Computer Security Related Programs in Python
 
 There are a lot of instances when studying Computer Security that you need to encrypt or decrypt messages for a given assignment. In this repository, I am collecting any such programs that I need to make for my course.
 
@@ -10,4 +10,4 @@ For your convinience, here is a list of all the scripts that are present in thei
 * **Substitution Cipher** (substitution-cipher.py) - This script performs a monoalphabetic substitution as well, but instead of following a fixed value, it follows a given function. It also has a part commented out right now that allows you to perform a poly-alphabetic substitution based on the position of the alphabet. It has different functions for odd and even place alphabets.
 * **Vigenere Cipher** (vigenere.py) - This script performs the Vigenere Encryption on the given plaintext along with the given key. It makes use of the substituiton function given under the Vigenere Encryption.
 
-#####Developed By: Aneesh Bhatnagar
+##### Developed By: Aneesh Bhatnagar
